@@ -1,188 +1,8 @@
 [
     {
-        "Title": "FairBridge Inn Express Tukwila",
-        "Latitude": "47.485754",
-        "Longitude": "-122.269308"
-    },
-    {
-        "Title": "Four Points by Sheraton Seattle Airport South",
-        "Latitude": "47.400629",
-        "Longitude": "-122.296476"
-    },
-    {
-        "Title": "Embassy Suites by Hilton Seattle Tacoma International Airport",
-        "Latitude": "47.4601",
-        "Longitude": "-122.243738"
-    },
-    {
-        "Title": "Radisson Hotel Seattle Airport",
-        "Latitude": "47.440418",
-        "Longitude": "-122.294917"
-    },
-    {
-        "Title": "Tru by Hilton Tukwila Southcenter",
-        "Latitude": "47.449393",
-        "Longitude": "-122.254582"
-    },
-    {
-        "Title": "Coast Gateway Hotel",
-        "Latitude": "47.437655",
-        "Longitude": "-122.296528"
-    },
-    {
-        "Title": "Courtyard by Marriott Seattle Sea-Tac Area",
-        "Latitude": "47.459196",
-        "Longitude": "-122.243626"
-    },
-    {
-        "Title": "Quality Inn Sea-Tac Airport",
-        "Latitude": "47.431367",
-        "Longitude": "-122.296567"
-    },
-    {
-        "Title": "Skybridge Seattle Airport Hotel",
-        "Latitude": "47.447063",
-        "Longitude": "-122.295313"
-    },
-    {
-        "Title": "DoubleTree by Hilton Seattle Airport",
-        "Latitude": "47.435816",
-        "Longitude": "-122.294088"
-    },
-    {
-        "Title": "WoodSpring Suites Seattle Tukwila",
-        "Latitude": "47.459959",
-        "Longitude": "-122.24249"
-    },
-    {
-        "Title": "Element Seattle Sea-Tac Airport",
-        "Latitude": "47.453712",
-        "Longitude": "-122.249407"
-    },
-    {
         "Title": "Aloft Seattle Sea-Tac Airport",
         "Latitude": "47.432205",
         "Longitude": "-122.297225"
-    },
-    {
-        "Title": "DoubleTree Suites by Hilton Hotel Seattle Airport - Southcenter",
-        "Latitude": "47.454198",
-        "Longitude": "-122.260513"
-    },
-    {
-        "Title": "Holiday Inn Express & Suites Seattle-Sea-Tac Airport",
-        "Latitude": "47.4264",
-        "Longitude": "-122.296858"
-    },
-    {
-        "Title": "Hampton Inn Seattle/Southcenter",
-        "Latitude": "47.463276",
-        "Longitude": "-122.24422"
-    },
-    {
-        "Title": "Red Lion Hotel Seattle Airport",
-        "Latitude": "47.439354",
-        "Longitude": "-122.295054"
-    },
-    {
-        "Title": "Courtyard Seattle SeaTac Airport",
-        "Latitude": "47.431841",
-        "Longitude": "-122.295647"
-    },
-    {
-        "Title": "Hampton Inn & Suites Seattle-Airport/28th Ave",
-        "Latitude": "47.432945",
-        "Longitude": "-122.297453"
-    },
-    {
-        "Title": "Home2 Suites by Hilton Seattle Airport",
-        "Latitude": "47.448064",
-        "Longitude": "-122.256517"
-    },
-    {
-        "Title": "Cedarbrook Lodge",
-        "Latitude": "47.437313",
-        "Longitude": "-122.287661"
-    },
-    {
-        "Title": "Ramada Tukwila Southcenter",
-        "Latitude": "47.460204",
-        "Longitude": "-122.245714"
-    },
-    {
-        "Title": "Sleep Inn SeaTac Airport",
-        "Latitude": "47.418298",
-        "Longitude": "-122.296361"
-    },
-    {
-        "Title": "Comfort Suites Airport",
-        "Latitude": "47.465901",
-        "Longitude": "-122.244962"
-    },
-    {
-        "Title": "Hotel Interurban",
-        "Latitude": "47.457161",
-        "Longitude": "-122.251595"
-    },
-    {
-        "Title": "Courtyard by Marriott Seattle Southcenter",
-        "Latitude": "47.453524",
-        "Longitude": "-122.25337"
-    },
-    {
-        "Title": "Hampton Inn Seattle Airport",
-        "Latitude": "47.428093",
-        "Longitude": "-122.29691"
-    },
-    {
-        "Title": "Fairfield Inn by Marriott Seattle Sea-Tac Airport",
-        "Latitude": "47.42578",
-        "Longitude": "-122.297071"
-    },
-    {
-        "Title": "Motel 6 Seattle South #736",
-        "Latitude": "47.415933",
-        "Longitude": "-122.288431"
-    },
-    {
-        "Title": "Residence Inn by Marriott Seattle South/Tukwila",
-        "Latitude": "47.458232",
-        "Longitude": "-122.244609"
-    },
-    {
-        "Title": "Motel 6 Seattle Airport #1332",
-        "Latitude": "47.455327",
-        "Longitude": "-122.293083"
-    },
-    {
-        "Title": "Hilton Seattle Airport & Conference Center",
-        "Latitude": "47.444596",
-        "Longitude": "-122.294582"
-    },
-    {
-        "Title": "Residence Inn by Marriott Seattle Sea-Tac Airport",
-        "Latitude": "47.426302",
-        "Longitude": "-122.294582"
-    },
-    {
-        "Title": "Country Inn and Suites by Radisson",
-        "Latitude": "47.431503",
-        "Longitude": "-122.294353"
-    },
-    {
-        "Title": "La Quinta Inn & Suites by Wyndham Seattle Sea-Tac Airport",
-        "Latitude": "47.43535",
-        "Longitude": "-122.297194"
-    },
-    {
-        "Title": "Ramada SeaTac Airport",
-        "Latitude": "47.452689",
-        "Longitude": "-122.294694"
-    },
-    {
-        "Title": "Hilton Garden Inn Seattle Airport",
-        "Latitude": "47.434872",
-        "Longitude": "-122.292751"
     },
     {
         "Title": "Best Western Seattle Airport Hotel",
@@ -190,29 +10,14 @@
         "Longitude": "-122.297822"
     },
     {
-        "Title": "Red Roof Inn Seattle Airport - SEATAC",
-        "Latitude": "47.451447",
-        "Longitude": "-122.29488"
+        "Title": "Cedarbrook Lodge",
+        "Latitude": "47.437313",
+        "Longitude": "-122.287661"
     },
     {
-        "Title": "SureStay by Best Western SeaTac North",
-        "Latitude": "47.446333",
-        "Longitude": "-122.294176"
-    },
-    {
-        "Title": "Seattle Airport Marriott",
-        "Latitude": "47.444197",
-        "Longitude": "-122.290661"
-    },
-    {
-        "Title": "Motel 6 Seattle Sea-Tac Airport South #4690",
-        "Latitude": "47.433021",
-        "Longitude": "-122.274495"
-    },
-    {
-        "Title": "Holiday Inn Express & Suites Seattle South - Tukwila",
-        "Latitude": "47.461606",
-        "Longitude": "-122.249982"
+        "Title": "Coast Gateway Hotel",
+        "Latitude": "47.437655",
+        "Longitude": "-122.296528"
     },
     {
         "Title": "Comfort Inn & Suites Sea-Tac Airport",
@@ -220,8 +25,203 @@
         "Longitude": "-122.2963"
     },
     {
+        "Title": "Comfort Suites Airport",
+        "Latitude": "47.465901",
+        "Longitude": "-122.244962"
+    },
+    {
+        "Title": "Country Inn and Suites by Radisson",
+        "Latitude": "47.431503",
+        "Longitude": "-122.294353"
+    },
+    {
+        "Title": "Courtyard Seattle SeaTac Airport",
+        "Latitude": "47.431841",
+        "Longitude": "-122.295647"
+    },
+    {
+        "Title": "Courtyard by Marriott Seattle Sea-Tac Area",
+        "Latitude": "47.459196",
+        "Longitude": "-122.243626"
+    },
+    {
+        "Title": "Courtyard by Marriott Seattle Southcenter",
+        "Latitude": "47.453524",
+        "Longitude": "-122.25337"
+    },
+    {
+        "Title": "DoubleTree Suites by Hilton Hotel Seattle Airport - Southcenter",
+        "Latitude": "47.454198",
+        "Longitude": "-122.260513"
+    },
+    {
+        "Title": "DoubleTree by Hilton Seattle Airport",
+        "Latitude": "47.435816",
+        "Longitude": "-122.294088"
+    },
+    {
+        "Title": "Element Seattle Sea-Tac Airport",
+        "Latitude": "47.453712",
+        "Longitude": "-122.249407"
+    },
+    {
+        "Title": "Embassy Suites by Hilton Seattle Tacoma International Airport",
+        "Latitude": "47.4601",
+        "Longitude": "-122.243738"
+    },
+    {
+        "Title": "FairBridge Inn Express Tukwila",
+        "Latitude": "47.485754",
+        "Longitude": "-122.269308"
+    },
+    {
+        "Title": "Fairfield Inn by Marriott Seattle Sea-Tac Airport",
+        "Latitude": "47.42578",
+        "Longitude": "-122.297071"
+    },
+    {
+        "Title": "Four Points by Sheraton Seattle Airport South",
+        "Latitude": "47.400629",
+        "Longitude": "-122.296476"
+    },
+    {
+        "Title": "Hampton Inn & Suites Seattle-Airport/28th Ave",
+        "Latitude": "47.432945",
+        "Longitude": "-122.297453"
+    },
+    {
+        "Title": "Hampton Inn Seattle Airport",
+        "Latitude": "47.428093",
+        "Longitude": "-122.29691"
+    },
+    {
+        "Title": "Hampton Inn Seattle/Southcenter",
+        "Latitude": "47.463276",
+        "Longitude": "-122.24422"
+    },
+    {
+        "Title": "Hilton Garden Inn Seattle Airport",
+        "Latitude": "47.434872",
+        "Longitude": "-122.292751"
+    },
+    {
+        "Title": "Hilton Seattle Airport & Conference Center",
+        "Latitude": "47.444596",
+        "Longitude": "-122.294582"
+    },
+    {
+        "Title": "Holiday Inn Express & Suites Seattle South - Tukwila",
+        "Latitude": "47.461606",
+        "Longitude": "-122.249982"
+    },
+    {
+        "Title": "Holiday Inn Express & Suites Seattle-Sea-Tac Airport",
+        "Latitude": "47.4264",
+        "Longitude": "-122.296858"
+    },
+    {
+        "Title": "Home2 Suites by Hilton Seattle Airport",
+        "Latitude": "47.448064",
+        "Longitude": "-122.256517"
+    },
+    {
         "Title": "Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila",
         "Latitude": "47.467523",
         "Longitude": "-122.245485"
+    },
+    {
+        "Title": "Hotel Interurban",
+        "Latitude": "47.457161",
+        "Longitude": "-122.251595"
+    },
+    {
+        "Title": "La Quinta Inn & Suites by Wyndham Seattle Sea-Tac Airport",
+        "Latitude": "47.43535",
+        "Longitude": "-122.297194"
+    },
+    {
+        "Title": "Motel 6 Seattle Airport #1332",
+        "Latitude": "47.455327",
+        "Longitude": "-122.293083"
+    },
+    {
+        "Title": "Motel 6 Seattle Sea-Tac Airport South #4690",
+        "Latitude": "47.433021",
+        "Longitude": "-122.274495"
+    },
+    {
+        "Title": "Motel 6 Seattle South #736",
+        "Latitude": "47.415933",
+        "Longitude": "-122.288431"
+    },
+    {
+        "Title": "Quality Inn Sea-Tac Airport",
+        "Latitude": "47.431367",
+        "Longitude": "-122.296567"
+    },
+    {
+        "Title": "Radisson Hotel Seattle Airport",
+        "Latitude": "47.440418",
+        "Longitude": "-122.294917"
+    },
+    {
+        "Title": "Ramada SeaTac Airport",
+        "Latitude": "47.452689",
+        "Longitude": "-122.294694"
+    },
+    {
+        "Title": "Ramada Tukwila Southcenter",
+        "Latitude": "47.460204",
+        "Longitude": "-122.245714"
+    },
+    {
+        "Title": "Red Lion Hotel Seattle Airport",
+        "Latitude": "47.439354",
+        "Longitude": "-122.295054"
+    },
+    {
+        "Title": "Red Roof Inn Seattle Airport - SEATAC",
+        "Latitude": "47.451447",
+        "Longitude": "-122.29488"
+    },
+    {
+        "Title": "Residence Inn by Marriott Seattle Sea-Tac Airport",
+        "Latitude": "47.426302",
+        "Longitude": "-122.294582"
+    },
+    {
+        "Title": "Residence Inn by Marriott Seattle South/Tukwila",
+        "Latitude": "47.458232",
+        "Longitude": "-122.244609"
+    },
+    {
+        "Title": "Seattle Airport Marriott",
+        "Latitude": "47.444197",
+        "Longitude": "-122.290661"
+    },
+    {
+        "Title": "Skybridge Seattle Airport Hotel",
+        "Latitude": "47.447063",
+        "Longitude": "-122.295313"
+    },
+    {
+        "Title": "Sleep Inn SeaTac Airport",
+        "Latitude": "47.418298",
+        "Longitude": "-122.296361"
+    },
+    {
+        "Title": "SureStay by Best Western SeaTac North",
+        "Latitude": "47.446333",
+        "Longitude": "-122.294176"
+    },
+    {
+        "Title": "Tru by Hilton Tukwila Southcenter",
+        "Latitude": "47.449393",
+        "Longitude": "-122.254582"
+    },
+    {
+        "Title": "WoodSpring Suites Seattle Tukwila",
+        "Latitude": "47.459959",
+        "Longitude": "-122.24249"
     }
 ]
