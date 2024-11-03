@@ -2,6 +2,10 @@
 
 This project provides a web application that allows users to select a hotel and see the closest items for each trail. The trails include Bubble Tea Trail, Happy Hour Trail, and Scenes Trail. The data is scraped from the Seattle Southside website and processed to find the nearest items for each hotel.
 
+## Live Demo
+
+Check out the live demo of the project: [Hotel Trails Web Application](https://ivantohelpyou.github.io/southside-trailheads/)
+
 ## Trails
 
 ### [Bubble Tea Trail](https://www.seattlesouthside.com/bubble-tea-trail/)
@@ -24,7 +28,7 @@ Experience the scenic beauty and cultural landmarks of Seattle Southside. This t
 
 ## Deployment
 
-The web application is deployed using GitHub Pages. You can access it [here](https://your-username.github.io/hotel-trails/).
+The web application is deployed using GitHub Pages. You can access it [here](https://ivantohelpyou.github.io/southside-trailheads/).
 
 ## License
 
