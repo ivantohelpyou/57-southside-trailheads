@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'scenes_trail': 'Scenes Trail'
     };
 
-    fetch('../nearest_items.json')
+    fetch('nearest_items.json')
         .then(response => response.json())
         .then(data => {
             populateHotelSelect(data);
