@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#trail-items {
+    margin-top: 20px;
+}
+
+.trail {
+    margin-bottom: 20px;
+}
+
+.trail-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.trail-item h3 {
+    margin: 0;
+}
+
+.trail-item p {
+    margin: 5px 0;
+}
+
+.trail-item a {
+    color: blue;
+    text-decoration: underline;
+}
